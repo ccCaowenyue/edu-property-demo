@@ -1,0 +1,16 @@
+{
+    "compilerOptions": {
+        "experimentalDecorators": true,
+        "lib": [
+            "dom",
+            "es7"
+        ],
+        "types": [
+            "./creator.d.ts"
+        ],
+        "target": "ES5"
+    },
+    "exclude": [
+        "node_modules"
+    ]
+}
